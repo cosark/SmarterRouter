@@ -131,6 +131,10 @@ ROUTER_EXTERNAL_PROVIDERS=openai,anthropic
 
 See [External Provider Setup](docs/external-providers.md) for complete instructions.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/SmarterRouter/)
+
 ---
 
 ## Latest Features (v2.1.6)
